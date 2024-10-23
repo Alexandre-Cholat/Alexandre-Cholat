@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandre-Cholat
-- 🌱 I’m currently learning math, computer science, and cognitive sciences at the Université Grenoble Alpes
-- 💞️ I’m learning Java, Lisp, R and more!
+- 🌱 I’m currently studying math, computer science, and cognitive sciences at the Université Grenoble Alpes
+- 💞️ Interested in natural language processing and RAG AI models.
 - 📫 Reach me here: alexandrecholat5@gmail.com
 - 😄 Pronouns: He/ Him
 
